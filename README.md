@@ -8,7 +8,7 @@ A powerful **Telegram bot** built with Python that integrates with the **Clash o
 ✅ Fetch **clan details, members, war status, and remaining war attacks**  
 ✅ Check linked **player profiles** and clan statistics  
 ✅ Admin settings for managing linking permissions  
-✅ **Ping command** to check API response times  
+✅ **Ping command** to check API response times.
 
 ---
 
@@ -16,7 +16,7 @@ A powerful **Telegram bot** built with Python that integrates with the **Clash o
 
 ### **1️⃣ Clone the Repository**  
  
-git clone https://github.com/suyash3636/coc_telegram_bot.git
+git clone https://github.com/suyash3636/coc_telegram_bot.git</br>
 cd coc_telegram_bot
 
 
@@ -28,32 +28,33 @@ venv\Scripts\activate      # On Windows
 
 ## 3️⃣ Install Dependencies
 
-pip install -r requirements.txt
+pip install -r requirements.txt</br>
 
 ## 4️⃣ Configure API Keys
-Rename .env.example to .env and add your API keys:
+Rename .env.example to .env and add your API keys:</br>
  
-TELEGRAM_BOT_TOKEN="your_telegram_bot_token"
-COC_API_KEY="your_clash_of_clans_api_key"
-MYSQL_HOST="localhost"
-MYSQL_USER="root"
-MYSQL_PASSWORD="yourpassword"
-MYSQL_DATABASE="Rexx_dbm"
+TELEGRAM_BOT_TOKEN="your_telegram_bot_token"</br>
+COC_API_KEY="your_clash_of_clans_api_key"</br>
+MYSQL_HOST="localhost"</br>
+MYSQL_USER="root"</br>
+MYSQL_PASSWORD="yourpassword"</br>
+MYSQL_DATABASE="Rexx_dbm"</br>
 
 
 ## 📜 Commands
-Command	Description
-/start	Start the bot
-/help	Show available commands
-/linkplayer	Link a player to your account
-/linkclan	Link a clan to your account
-/clan	Get linked clan details
-/members	Get clan members list
-/war	Show current war details
-/warrem	Show remaining war attacks
-/player	Fetch player details
-/profile	Show linked players and clans
-/adminsettings	Manage bot admin settings
+Command	Description</br>
+/start	Start the bot</br>
+/help	Show available commands</br>
+/linkplayer	Link a player to your account</br>
+/linkclan	Link a clan to your account</br>
+/clan	Get linked clan details</br>
+/members	Get clan members list</br>
+/war	Show current war details</br>
+/warrem	Show remaining war attacks</br>
+/player	Fetch player details</br>
+/profile	Show linked players and clans</br>
+/adminsettings	Manage bot admin settings</br>
 
 ## 📬 Contact
-For queries, reach out to suyash3636@gmail.com 
+
+For queries, reach out to suyash3636@gmail.com </br>
