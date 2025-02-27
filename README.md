@@ -23,7 +23,7 @@ cd coc_telegram_bot
 ## 2️⃣ Create a Virtual Environment
  
 python3 -m venv venv
-source venv/bin/activate  # On Linux/macOS
+source venv/bin/activate  # On Linux/macOS </br>
 venv\Scripts\activate      # On Windows
 
 ## 3️⃣ Install Dependencies
