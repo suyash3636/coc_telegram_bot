@@ -43,17 +43,17 @@ MYSQL_DATABASE="Rexx_dbm"</br>
 
 ## 📜 Commands
 Command	Description</br>
-/start	Start the bot</br>
-/help	Show available commands</br>
-/linkplayer	Link a player to your account</br>
-/linkclan	Link a clan to your account</br>
-/clan	Get linked clan details</br>
-/members	Get clan members list</br>
-/war	Show current war details</br>
-/warrem	Show remaining war attacks</br>
-/player	Fetch player details</br>
-/profile	Show linked players and clans</br>
-/adminsettings	Manage bot admin settings</br>
+/start	    :Start the bot</br>
+/help	    :Show available commands</br>
+/linkplayer	:Link a player to your account</br>
+/linkclan	:Link a clan to your account</br>
+/clan	    :Get linked clan details</br>
+/members	:Get clan members list</br>
+/war	    :Show current war details</br>
+/warrem	    :Show remaining war attacks</br>
+/player 	:Fetch player details</br>
+/profile	:Show linked players and clans</br>
+/adminsettings	:Manage bot admin settings</br>
 
 ## 📬 Contact
 
